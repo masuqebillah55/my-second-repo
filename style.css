@@ -1,3 +1,8 @@
 h3{
     color: blueviolet;
 }
+p{
+    background-color: crimson;
+    color: darkgrey;
+    padding: 10px;
+}
